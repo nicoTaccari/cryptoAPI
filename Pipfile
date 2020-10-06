@@ -12,6 +12,7 @@ drf-yasg = "*"
 djangorestframework = "==3.11.1"
 django-heroku = "*"
 gunicorn = "*"
+django-cors-headers = "*"
 
 [requires]
 python_version = "3.8"
